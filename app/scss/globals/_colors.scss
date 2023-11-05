@@ -1,0 +1,13 @@
+:root {
+  --c-white: hsl(36, 100%, 99%); // #fffdfa
+  --c-blue:  	hsl(240, 100%, 5%); // #00001a;
+  --c-gray:  	hsl(236, 13%, 42%); // #5e607a;
+  --c-red:  	hsl(5, 85%, 63%); // #f15d51;
+  --c-silver:  	hsl(233, 8%, 79%); // #c5c6ce;
+  --c-yellow:  	hsl(35, 77%, 62%); // #e9aa52;
+
+  --f-xl: font-size: clamp(2.5rem, 2.147887323943662rem + 1.5023474178403755vw, 3.5rem); // 40px, 56px
+  --f-l: font-size: clamp(2rem, 1.823943661971831rem + 0.7511737089201878vw, 2.5rem); // 32px, 40px
+  --f-s: 20px
+}
+
